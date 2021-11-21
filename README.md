@@ -1,4 +1,4 @@
-See here for my public webpage: https://nickg-math.github.io/
+My public webpage: https://nickg-math.github.io/
 
 <!---
 NickG-Math/NickG-Math is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
